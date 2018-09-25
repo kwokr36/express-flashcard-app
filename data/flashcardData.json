@@ -1,66 +1,21 @@
 {
     "data": {
-        "title": "Finnish Flashcards",
+        "title": "Pharmacology Flashcards",
         "cards": [
             {
-                "question": "What \"nykyinen\" means",
-                "hint": "Something related to time",
-                "answer": "Current"
+                "question": "What is \"drug concentration which induces death in 50% of animals treated with the drug\"? ",
+                "hint": "LD50",
+                "answer": "Median Lethal Dose (LD50)."
             },
             {
-                "question": "What \"arvosana\" means",
-                "hint": "About exams and stuffs",
-                "answer": "Grade"
+                "question": "What is \"Thearpeutic Index (TI) \"? ",
+                "hint": "",
+                "answer": "Measure of safety of drug, larger the TI the safer."
             },
             {
-                "question": "What \"hakea\" means",
-                "hint": "Something related to application",
-                "answer": "To search"
-            },
-            {
-                "question": "Julkkis means what?",
-                "hint": "You probably want to be that",
-                "answer": "Celebrity"
-            },
-            {
-                "question": "Meaning of \"maalata\"",
-                "hint": "Most kids like this",
-                "answer": "To paint"
-            },
-            {
-                "question": "Luento",
-                "hint": "Go to school to take what?",
-                "answer": "Lecture"
-            },
-            {
-                "question": "Meaning of \"Haaratattelu\"",
-                "hint": "It starts with an \"I\"",
-                "answer": "Interview"
-            },
-            {
-                "question": "Keksiä means what?",
-                "hint": "It starts with an \"I\"",
-                "answer": "To invent"
-            },
-            {
-                "question": "Opiskeljavaihto",
-                "hint": "They normally dont study much",
-                "answer": "Exchange student"
-            },
-            {
-                "question": "Joten",
-                "hint": "It starts with a \"T\"",
-                "answer": "Therefore"
-            },
-            {
-                "question": "Eronnut",
-                "hint": "Not the best position ever",
-                "answer": "Divorced"
-            },
-            {
-                "question": "Muisto",
-                "hint": "It starts also with a \"M\"",
-                "answer": "Memory"
+                "question": "What is \"Median Toxicity Dose (TD50)\"? ",
+                "hint": "TD50",
+                "answer": "Concentration of drug which produces a specific side/toxic effect in 50% of animals treated with the drug."
             }
         ]
     }
