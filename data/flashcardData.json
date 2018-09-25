@@ -4,7 +4,7 @@
         "cards": [
             {
                 "question": "What is \"drug concentration which induces death in 50% of animals treated with the drug\"? ",
-                "hint": "LD50",
+                "hint": "HINT: LD50",
                 "answer": "Median Lethal Dose (LD50)."
             },
             {
@@ -14,9 +14,214 @@
             },
             {
                 "question": "What is \"Median Toxicity Dose (TD50)\"? ",
-                "hint": "TD50",
+                "hint": "HINT: TD50",
                 "answer": "Concentration of drug which produces a specific side/toxic effect in 50% of animals treated with the drug."
-            }
+            },
+            {
+                "question": "What is the difference in dose response relationship for Phenytoin vs. Most Drugs?",
+                "hint": "HINT: Page 14 on PowerPoint",
+                "answer": "Phenytoin produce sharp increases in plasma drug levels (Exponential) while most drugs are linear"
+            },
+            {
+                "question": "What is \"Chemicals that produce effects by interacting with other chemicals\"? ",
+                "hint": "HINT: Drug Receptor Interactions",
+                "answer": "Ligands."
+            },
+            {
+                "question": "Are bindings of a ligand to its receiptor usually reversible? ",
+                "hint": "HINT: Drug Receptor Interactions",
+                "answer": "TRUE, page 15 on PowerPoint"
+            },
+            {
+                "question": "What is \"Drug-receptor interaction formula \"? ",
+                "hint": "HINT: Drug Receptor Interactions",
+                "answer": "D + R ⇌ D-R COMPLEX 􏰀=> RESPONSE"
+            },
+            {
+                "question": "Can Drugs give cells new functions? ",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "FALSE."
+            },
+            {
+                "question": "What is the relationship between receptors and selectivity of drug action?",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "More selective the drug, the few side effects, BUT it does not guarantee safety."
+            },
+            {
+                "question": "TRUE/FALSE: \"Drugs can only mimic or block the body's own regulatory molecules they produce their therapeutic effects by helping body use its preexisting capabilities\"",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "TRUE."
+            },
+            {
+                "question": "What are the TYPES of receptors?",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "Receptors for neurotransmitters, Receptors for hormones, Receptors for all other molecules in the body used to regulate phsiologic processes."
+            },
+            {
+                "question": "Are there receptors on the external portion of cell membrane for hydrophilic ligands? ",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "TRUE."
+            },  
+            {
+                "question": "Are there receptors in the cytoplasm or inside cell nucleuses for Hydrophobic/Lipophilic ligands?",
+                "hint": "HINT: Drugs and their Receptors page 15",
+                "answer": "TRUE."
+            }, 
+            {
+                "question": "What are the 3 Receptor Location and Activation?",
+                "hint": "HINT: Receptor location and activation page 16",
+                "answer": "Ligand gated ion channels, Cell-membrane embedded enzymes, G protein-coupled receptor systems."
+            },
+            {
+                "question": "Are most drugs 100% selective?",
+                "hint": "HINT: Receptor Selectivity page 16",
+                "answer": "FALSE."
+            },
+            {
+                "question": "What is the \"Simple Occupancy Theory\"?",
+                "hint": "HINT: Theories of Drug-Receptor Interaction page 17",
+                "answer": "Intensity of a drug response is proportional to the number of receptors occupied in that drug."
+            },
+            {
+                "question": "What is the \"Modified Occupancy Theory\"?",
+                "hint": "HINT: Theories of Drug-Receptor Interaction page 17",
+                "answer": "Consideration of affinity and intrinsic activity. Affinity - strength of attraction between a ligand and its receptor (Potency). Instrinic Acitivty - Ability of a ligand to activate a receptor upon binding. (Efficacy)"
+            },
+            {
+                "question": "What are the 3 possible actions of drugs when binding to a receptor?",
+                "hint": "HINT: Page 17",
+                "answer": "Agonists (Full), Partial Agonists, Antagonists"
+            },
+            {
+                "question": "What are the 2 types actions of antagonists?",
+                "hint": "HINT: Page 18",
+                "answer": "Noncompetitive Antagonists, Competitive Antagonists"
+            },
+            {
+                "question": "How does a cell become desensitivzed or refractory?",
+                "hint": "HINT: Page 18",
+                "answer": "Continuous activation caused by prolonged exposure to an agonist causing a decrease in number of receptors."
+            },
+            {
+                "question": "How does a cell become hypersensitized?",
+                "hint": "HINT: Page 18",
+                "answer": "Continuous inhibition caused by prolonged exposure to an antagonist can cause increase in the number of receptors present (up-regulation). Possibly due to synthesis of more receptors."
+            }, 
+            {
+                "question": "What is the 4 basic processes of Pharmacokinetics",
+                "hint": "A.D.M.E",
+                "answer": "Absorption. Distribution. Metabolism, Excretion."
+            },
+            {
+                "question": "What are the 3 processes for drugs to cross membranes?",
+                "hint": "",
+                "answer": "Direct penetration, Channels or pores, Transport proteins"
+            }, 
+            {
+                "question": "Can 2 formulations be chemically equivalent but differ in bioavailability?",
+                "hint": "",
+                "answer": "TRUE. As per PowerPoint Entericcoated Liquid (60%) vs Tablet (80%)"
+            },
+            {
+                "question": "What are the factors that affect drug absorption",
+                "hint": "5 Factors",
+                "answer": "Rate of dissolution, Route of administration, Blood flow and surface area, Extent of Lipid Solubility, pH Partioning (Ion Trapping)."
+            },
+            {
+                "question": "What is the process of the First Pass Effect?",
+                "hint": "",
+                "answer": "GI Tract -> Portal Vein -> Liver -> Inferior Vena Cava -> Heart -> General Circulation"
+            },
+            {
+                "question": "Which drugs are highly-protein bound?",
+                "hint": "P.L.F.W",
+                "answer": "Phenytoin, Lindocaine, Furosemide, Warfarin"
+            },
+            {
+                "question": "What is the effect of taking Warfarin and Phenytoin?",
+                "hint": "",
+                "answer": "Warfarin becomes displaced by Phenytoin thus INCREASING the free warfarin in the system."
+            },
+            {
+                "question": "How is the term when free drug in system increases, increasing effect, sometimes to toxic levels?",
+                "hint": "HINT: Hypo------",
+                "answer": "Hypoalbuminemia."
+            },
+            {
+                "question": "What is the Glucornidation process?",
+                "hint": "",
+                "answer": "GI Tract -> Portal Vein -> Liver -> Glucorindate incorporated bile."
+            },
+            {
+                "question": "What is the Hepatic Microsomal Enzyme System also called?",
+                "hint": "HINT: P--- System",
+                "answer": "P450 System"
+            },
+            {
+                "question": "What are the factors related to the metabolism of a drug?",
+                "hint": "HINT: 7 factors in total",
+                "answer": "Age, Change in levels of drug metabolizing P450 enzymes, Nutritional status, Competition between drugs, Genetic variations, Liver blood flow and disease states."
+            }, 
+            {
+                "question": "What are the factors related to the excretion of a drug?",
+                "hint": "HINT: 3 factors",
+                "answer": "pH-dependent ionization, Age, Competition for active tubular transport."
+            },
+            {
+                "question": "What is the half-life of a drug?",
+                "hint": "",
+                "answer": "Time needed for plasma drug concentration to decrease by 50%"
+            }, 
+            {
+                "question": "What is the term for a \"large initial dose given to shorten time to reach therapeutic levels\"? ",
+                "hint": "",
+                "answer": "Loading Dose."
+            },
+            {
+                "question": "What is the term for \"multiple dosages given to maintain therapeutic effect for extended period\"? ",
+                "hint": "",
+                "answer": "Maintenance Dose (Chronic Drugs)."
+            },
+            {
+                "question": "What is the goal of Pharmacodynamics? ",
+                "hint": "",
+                "answer": "Maximize the desirable effects and minimize the side effects of drugs."
+            },
+            {
+                "question": "What are the independent properties of drugs?",
+                "hint": "HINT: 2 Properties",
+                "answer": "Efficacy. Potency."
+            },
+            {
+                "question": "What is the independent property of a drug for a \"index of maximial response a drug can produce\"? ",
+                "hint": "",
+                "answer": "Efficacy."
+            },
+            {
+                "question": "What is the independent property of a drug for a \"How much a drug is administered to elicit a desired response\"? ",
+                "hint": "",
+                "answer": "Potency, usually not an important qualirt of a drug."
+            },
+            {
+                "question": "What is the Therapeutic Effect?",
+                "hint": "Specific and desired effect",
+                "answer": "Occurs when a drug binds to a specific receptor in a specific part of the body at a specific concentration range to lead to a desired effect."
+            },
+            {
+                "question": "What is the study of biochemical and physiologic effects of drugs and molecular mechanisms by which those effects are produced?",
+                "hint": "",
+                "answer": "Pharmacodynamics"
+            },
+            {
+                "question": "What is the dose that will produce a predefined intensity of response in 50% of the population?",
+                "hint": "HINT: E---0",
+                "answer": "ED50"
+            },
+            {
+                "question": "What are the Dose-Response Relationship?",
+                "hint": "Size of ------- and Intensity of -----------",
+                "answer": "Relationship between size of administered dose and intensity of response produced."
+            }      
         ]
     }
 }
